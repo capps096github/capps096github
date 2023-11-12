@@ -1,4 +1,4 @@
-# Welcome to the Xephas Sessions Repository
+# Welcome to the Xephas' Github Profile
 
 This contains a collection of all trainings, event talks and sessions by Mugisa Brian Cephas.
 
