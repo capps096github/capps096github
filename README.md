@@ -4,7 +4,7 @@ This contains a collection of all trainings, event talks and sessions by Mugisa 
 
 ## About Xephas
 
-`Xephas` is a code-name for `Mugisa Brian Cephas` an Expert Flutter Developer since 2020, who is also a Software Engineer with an ultimate experience in Cross-Platform App Development and an astounding passion for Graphics and UI/UX Design. His purpose and passion is in designing and develop experiences that improve people's lives.
+`Xephas` is a code-name for `Mugisa Brian Cephas` an Expert Flutter Developer since 2020, who is also a Software Engineer with ultimate experience in Cross-Platform App Development and an astounding passion for Graphics and UI/UX Design. His purpose and passion is designing and developing experiences that improve people's lives.
 
 ## Social Media Handles
 
@@ -29,6 +29,8 @@ Stack Overflow: [Mugisa Brian Cephas](https://stackoverflow.com/users/19142356/m
 ## Flutter Open Source Projects and Contributions
 
 ## GDSC Community Activities and Leadership Roles
+
+## Personal Projects Worked on
 
 ## Flutter Code-Generators
 
