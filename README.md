@@ -2,9 +2,13 @@
 
 This contains a collection of all trainings, event talks and sessions by Mugisa Brian Cephas.
 
-## About Xephas
+## About Xephas (Me)
 
 `Xephas` is a code-name for `Mugisa Brian Cephas` an Expert Flutter Developer since 2020, who is also a Software Engineer with ultimate experience in Cross-Platform App Development and an astounding passion for Graphics and UI/UX Design. His purpose and passion is designing and developing experiences that improve people's lives.
+
+## Want to Hire Xephas (Me)?
+
+Check out his Cover Letter [here](CoverLetter.md)
 
 ## Social Media Handles
 
